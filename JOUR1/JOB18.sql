@@ -1,2 +1,2 @@
 DELETE FROM Etudiants
-    -> WHERE nom = "Doe"
+    -> WHERE nom = "Doe";
